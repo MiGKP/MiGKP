@@ -44,11 +44,6 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=MiGKP&theme=redical" alt="Activity Graph" width="90%"/>
 </p>
 
-<h3 align="center">🏆 GitHub Trophies</h3>
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=MiGKP&theme=radical&no-frame=true&row=1&column=7" alt="GitHub Trophies"/>
-</p>
-
 <p align="center">
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="snake animation" />
 </p>
