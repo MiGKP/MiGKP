@@ -32,21 +32,21 @@
 
 <h3 align="center">📊 GitHub Stats</h3>
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats" width="48%"/>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical" alt="Top Languages" width="38%"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=MiGKP&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats" width="48%"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MiGKP&layout=compact&theme=radical" alt="Top Languages" width="38%"/>
 </p>
 
 <p align="center">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=radical" alt="GitHub Streak" width="48%"/>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=MiGKP&theme=radical" alt="GitHub Streak" width="48%"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=redical" alt="Activity Graph" width="90%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MiGKP&theme=redical" alt="Activity Graph" width="90%"/>
 </p>
 
 <h3 align="center">🏆 GitHub Trophies</h3>
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=radical&no-frame=true&row=1&column=7" alt="GitHub Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=MiGKP&theme=radical&no-frame=true&row=1&column=7" alt="GitHub Trophies"/>
 </p>
 
 <p align="center">
